@@ -62,7 +62,7 @@ NetJoker تطبيق يتيح لك **استضافة ألعابك المفضلة**
 
 <div align="center">
 
-[![شاهد الفيديو](https://img.shields.io/badge/▶️_شاهد_الفيديو-FF0000?style=for-the-badge&logo=youtube)](https://github.com/mosa8899/netjoker-app/releases/download/v1.0.0/tutorial.mp4)
+[![شاهد الفيديو](https://img.shields.io/badge/▶️_شاهد_الفيديو-FF0000?style=for-the-badge&logo=youtube)]([https://github.com/mosa8899/netjoker-app/releases/download/v1.0.0/tutorial.mp4](https://github.com/mosa8899/netjoker-app/releases/download/gg/WhatsApp.Video.2026-01-04.at.5.49.35.PM.mp4))
 
 </div>
 
